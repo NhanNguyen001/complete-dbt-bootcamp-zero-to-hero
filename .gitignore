@@ -13,3 +13,9 @@ venv/
 tmp*/
 
 /.user.yml
+
+.claude
+.user.yml
+dbt_internal_packages/
+profiles.yml
+.python-version
